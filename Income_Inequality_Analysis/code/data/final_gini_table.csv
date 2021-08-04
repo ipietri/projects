@@ -1,0 +1,116 @@
+country,code3,code2,region,sub_region,g2009,g2010,g2011,g2012,g2013,g2014,g2015,g2016,g2017,g2018,gini_trend
+Afghanistan,AFG,AF,Asia,Southern Asia,,,,33.0,,,,,31.0,,-0.4
+Armenia,ARM,AM,Asia,Western Asia,31.76,33.1,33.22,29.6,30.58,31.48,32.36,32.55,33.62,,0.1
+Australia,AUS,AU,Oceania,Australia and New Zealand,,35.18,28.3,38.57,,37.96,,33.0,,,0.24
+Austria,AUT,AT,Europe,Western Europe,34.48,32.41,33.74,33.46,32.38,33.33,33.45,27.8,27.9,26.8,-0.78
+Bangladesh,BGD,BD,Asia,Southern Asia,,38.97,,,,,,40.34,,,0.23
+Barbados,BRB,BB,Americas,Caribbean,,45.0,,,,,,,32.0,,-1.86
+Belarus,BLR,BY,Europe,Eastern Europe,27.69,28.57,27.15,26.53,26.58,27.18,25.63,25.31,25.44,,-0.35
+Belgium,BEL,BE,Europe,Western Europe,32.29,32.35,32.33,32.02,32.15,32.35,32.43,26.45,26.0,25.6,-0.8
+Benin,BEN,BJ,Africa,Western Africa,,,,43.44,,,47.76,,,,1.44
+Bhutan,BTN,BT,Asia,Southern Asia,,,,38.81,,,,,37.44,,-0.27
+Bolivia,BOL,BO,Americas,South America,49.35,,45.8,46.24,47.2,47.08,45.83,44.51,43.98,43.8,-0.52
+Botswana,BWA,BW,Africa,Southern Africa,,54.98,,,,,,53.33,,,-0.27
+Brazil,BRA,BR,Americas,South America,52.34,,51.33,52.02,50.64,50.97,50.8,53.08,52.85,54.0,0.19
+Bulgaria,BGR,BG,Europe,Eastern Europe,33.61,34.42,34.64,34.8,35.98,36.41,37.0,37.7,40.2,39.6,0.71
+Burkina Faso,BFA,BF,Africa,Western Africa,39.76,,,,,35.3,,,,,-0.89
+Cambodia,KHM,KH,Asia,South-eastern Asia,34.65,33.44,31.7,30.76,,,,,,,-1.34
+Canada,CAN,CA,Americas,Northern America,36.93,35.9,36.57,36.77,35.98,36.38,36.9,34.8,35.25,,-0.16
+Chile,CHL,CL,Americas,South America,48.67,,47.62,,47.19,,46.81,,45.92,,-0.32
+China,CHN,CN,Asia,Eastern Asia,,47.95,49.08,45.88,42.67,43.04,42.4,46.5,46.7,,-0.38
+Colombia,COL,CO,Americas,South America,54.46,54.43,53.26,52.41,53.38,52.41,50.8,50.48,49.4,52.0,-0.47
+Costa Rica,CRI,CR,Americas,Central America,50.19,48.53,48.4,48.48,49.25,48.47,48.14,48.5,48.17,48.6,-0.11
+Croatia,HRV,HR,Europe,Southern Europe,32.87,30.44,31.73,31.68,31.44,31.16,30.76,29.8,29.9,29.7,-0.27
+Cyprus,CYP,CY,Asia,Western Asia,30.8,30.78,30.91,32.66,34.72,35.18,33.78,32.1,30.8,29.1,-0.03
+Czechia,CZE,CZ,Europe,Eastern Europe,30.11,29.18,30.42,30.08,29.36,30.48,30.47,25.2,24.5,24.0,-0.68
+Denmark,DNK,DK,Europe,Northern Europe,29.55,29.14,30.28,30.36,29.29,31.15,27.29,26.9,27.6,27.8,-0.31
+Djibouti,DJI,DJ,Africa,Eastern Africa,,,,45.13,44.13,,,,41.59,,-0.69
+Dominican Republic,DOM,DO,Americas,Caribbean,48.34,46.86,47.2,45.53,46.96,43.87,44.6,44.33,44.1,44.4,-0.46
+Ecuador,ECU,EC,Americas,South America,47.79,48.18,45.8,45.68,46.29,44.32,45.39,44.4,43.97,45.4,-0.37
+Egypt,EGY,EG,Africa,Northern Africa,31.17,,30.86,,40.82,,31.56,,,,0.56
+El Salvador,SLV,SV,Americas,Central America,45.81,43.45,42.32,41.76,43.36,41.52,40.54,39.99,37.94,40.5,-0.63
+Estonia,EST,EE,Europe,Northern Europe,35.41,34.63,36.27,36.6,37.57,38.22,36.55,32.05,31.6,30.6,-0.52
+Ethiopia,ETH,ET,Africa,Eastern Africa,,,31.47,,,,,34.0,,,0.51
+Fiji,FJI,FJ,Oceania,Melanesia,40.38,,,,,36.7,,,,,-0.74
+Finland,FIN,FI,Europe,Northern Europe,31.43,30.52,31.79,31.64,30.44,31.6,32.0,25.65,25.95,25.9,-0.67
+France,FRA,FR,Europe,Western Europe,35.29,33.19,36.55,35.88,34.88,34.93,35.2,29.2,29.3,,-0.66
+"Gambia, The",GMB,GM,Africa,Western Africa,,,44.68,,,,,35.92,,,-1.75
+Georgia,GEO,GE,Asia,Western Asia,40.12,40.31,40.81,39.98,37.28,37.55,36.5,36.45,37.94,,-0.52
+Germany,DEU,DE,Europe,Western Europe,33.22,33.16,33.66,34.01,34.15,34.26,32.07,29.45,29.1,31.1,-0.45
+Ghana,GHA,GH,Africa,Western Africa,,,,,42.37,,,,43.52,,0.29
+Greece,GRC,GR,Europe,Southern Europe,37.38,36.29,38.83,39.65,38.06,39.46,39.6,33.8,33.4,32.3,-0.54
+Greenland,GRL,GL,Americas,Northern America,32.4,33.2,33.6,33.6,34.3,34.3,33.9,33.9,34.3,35.4,0.22
+Guatemala,GTM,GT,Americas,Central America,,54.85,49.31,,,44.49,,,,,-2.36
+Honduras,HND,HN,Americas,Central America,50.52,52.32,55.56,55.43,51.77,49.28,48.42,49.04,50.47,48.1,-0.55
+Hong Kong,HKG,HK,Asia,Eastern Asia,,,50.6,,,,,48.28,,,-0.47
+Hungary,HUN,HU,Europe,Eastern Europe,29.73,26.77,28.03,31.61,29.9,33.46,27.64,28.2,28.1,28.7,-0.05
+Iceland,ISL,IS,Europe,Northern Europe,30.47,28.33,29.13,29.01,27.98,28.54,25.1,24.1,,,-0.76
+India,IND,IN,Asia,Southern Asia,,36.06,,43.48,,,,,,,3.71
+Indonesia,IDN,ID,Asia,South-eastern Asia,36.03,37.19,39.34,39.76,40.27,40.39,39.95,38.98,38.58,,0.29
+Iran,IRN,IR,Asia,Southern Asia,42.05,,,,37.36,38.78,39.47,39.97,,,-0.33
+Ireland,IRL,IE,Europe,Northern Europe,37.66,35.99,37.37,38.08,38.08,36.85,30.41,30.25,30.6,,-1.01
+Israel,ISR,IL,Asia,Western Asia,43.6,41.47,42.77,39.71,40.67,38.58,40.47,37.77,34.4,,-0.89
+Italy,ITA,IT,Europe,Southern Europe,36.41,34.1,37.55,37.77,37.68,34.97,33.9,32.95,32.7,33.4,-0.45
+Jamaica,JAM,JM,Americas,Caribbean,37.24,38.77,,38.71,40.46,37.11,37.46,34.92,37.48,,-0.23
+Japan,JPN,JP,Asia,Eastern Asia,35.59,,,39.0,,,33.9,,,,-0.28
+Jordan,JOR,JO,Asia,Western Asia,33.28,,35.82,,33.1,,,,,,-0.05
+Kazakhstan,KAZ,KZ,Asia,Central Asia,27.46,27.88,28.44,28.17,27.07,27.02,26.8,27.23,27.45,,-0.11
+"Korea, Republic of",KOR,KR,Asia,Eastern Asia,32.95,30.72,32.65,30.31,31.9,32.15,31.8,,35.5,,0.3
+Kosovo,XKX,XK,Europe,Southern Europe,31.78,33.25,27.83,28.97,26.31,27.27,26.45,26.72,29.01,,-0.59
+Kyrgyzstan,KGZ,KG,Asia,Central Asia,29.87,30.13,27.84,27.36,28.82,26.82,29.0,26.78,27.34,,-0.31
+Latvia,LVA,LV,Europe,Northern Europe,38.8,39.17,39.23,38.87,38.78,38.42,37.86,34.55,34.5,35.6,-0.53
+Liberia,LBR,LR,Africa,Western Africa,,,,,,33.24,,35.27,,,1.02
+Lithuania,LTU,LT,Europe,Northern Europe,40.4,36.44,36.74,38.5,37.38,40.86,40.57,37.4,37.6,36.9,-0.06
+Luxembourg,LUX,LU,Europe,Western Europe,33.5,31.67,33.31,35.11,33.23,33.55,31.14,30.7,30.9,,-0.32
+Madagascar,MDG,MG,Africa,Eastern Africa,,40.86,,42.65,,,,,,,0.89
+Malawi,MWI,MW,Africa,Eastern Africa,,,45.34,,,,,,44.69,,-0.11
+Malaysia,MYS,MY,Asia,South-eastern Asia,45.48,,43.94,43.1,41.35,40.1,,41.04,,,-0.75
+Malta,MLT,MT,Europe,Southern Europe,28.82,28.82,28.17,28.23,28.42,28.34,28.76,28.6,28.2,28.7,-0.01
+Mexico,MEX,MX,Americas,Central America,,46.97,,46.94,,47.64,,47.06,,47.5,0.06
+Moldova,MDA,MD,Europe,Eastern Europe,32.91,32.05,30.63,29.16,28.53,26.83,27.03,26.35,25.9,,-0.91
+Mongolia,MNG,MN,Asia,Eastern Asia,,33.08,33.88,33.75,,32.04,,32.35,,,-0.24
+Montenegro,MNE,ME,Europe,Southern Europe,31.01,28.89,30.82,32.27,32.44,31.93,,,,,0.48
+Mozambique,MOZ,MZ,Africa,Eastern Africa,43.21,,,,,,49.42,,,,1.03
+Namibia,NAM,NA,Africa,Southern Africa,,60.34,,,,,,57.54,,,-0.47
+Netherlands,NLD,NL,Europe,Western Europe,31.27,30.1,26.78,30.8,30.97,33.17,33.11,27.7,27.1,27.0,-0.28
+New Zealand,NZL,NZ,Oceania,Australia and New Zealand,36.83,32.3,36.9,36.9,33.6,38.15,35.0,33.6,34.3,34.1,-0.17
+Nicaragua,NIC,NI,Americas,Central America,43.96,,,,,46.52,,,,,0.51
+Niger,NER,NE,Africa,Western Africa,,,31.45,,,34.28,,,,,0.94
+North Macedonia,MKD,MK,Europe,Southern Europe,42.76,40.16,39.37,38.47,36.62,35.2,34.65,33.6,32.4,,-1.23
+Norway,NOR,NO,Europe,Northern Europe,28.73,28.36,28.7,28.84,28.56,29.51,30.6,25.0,26.15,24.8,-0.38
+Pakistan,PAK,PK,Asia,Southern Asia,,,30.2,30.93,,30.69,,33.45,,,0.57
+Panama,PAN,PA,Americas,Central America,51.44,50.54,51.21,51.05,50.44,49.97,50.48,50.1,49.58,49.8,-0.18
+Paraguay,PRY,PY,Americas,South America,49.09,51.63,52.35,47.66,48.34,51.0,47.83,48.58,48.76,47.4,-0.31
+Peru,PER,PE,Americas,South America,47.97,45.3,44.62,44.34,43.52,43.06,43.29,43.64,43.21,43.9,-0.36
+Philippines,PHL,PH,Asia,South-eastern Asia,44.29,,,44.36,,,42.23,,,,-0.34
+Poland,POL,PL,Europe,Eastern Europe,34.52,33.67,34.18,33.9,33.33,33.87,33.23,29.74,29.2,27.8,-0.7
+Portugal,PRT,PT,Europe,Southern Europe,38.62,38.79,39.27,39.25,40.0,39.77,39.34,33.5,33.5,32.1,-0.75
+Romania,ROU,RO,Europe,Eastern Europe,32.75,32.38,32.19,32.63,32.99,35.5,36.66,31.52,33.1,35.1,0.23
+Russia,RUS,RU,Europe,Eastern Europe,39.85,38.94,39.09,40.71,37.14,36.32,35.35,34.56,,,-0.8
+Rwanda,RWA,RW,Africa,Eastern Africa,,,48.11,,,45.11,,,43.71,,-0.73
+San Marino,SMR,SM,Europe,Southern Europe,29.0,27.5,27.7,27.8,29.2,30.1,29.4,29.3,27.7,,0.1
+Serbia,SRB,RS,Europe,Southern Europe,27.97,30.86,,39.82,33.42,38.75,36.06,32.44,37.8,,0.83
+Singapore,SGP,SG,Asia,South-eastern Asia,47.1,47.2,47.3,,,,,,,,0.1
+Slovakia,SVK,SK,Europe,Eastern Europe,29.31,29.05,29.45,28.7,29.32,28.52,28.38,24.2,23.2,,-0.69
+Slovenia,SVN,SI,Europe,Southern Europe,29.22,28.08,29.59,28.73,30.59,30.43,30.12,24.4,23.7,23.4,-0.64
+South Africa,ZAF,ZA,Africa,Southern Africa,63.01,67.08,73.25,64.82,,,65.43,,,,-0.0
+Spain,ESP,ES,Europe,Southern Europe,37.29,36.98,38.38,38.2,38.08,39.19,39.18,35.83,34.1,33.2,-0.4
+Sri Lanka,LKA,LK,Asia,Southern Asia,,40.8,,,42.39,,,41.94,,,0.19
+Sweden,SWE,SE,Europe,Northern Europe,31.24,31.06,31.1,26.82,30.82,31.18,31.52,27.9,28.1,27.0,-0.37
+Switzerland,CHE,CH,Europe,Western Europe,32.64,31.26,31.78,30.18,31.57,31.82,30.5,29.4,30.1,,-0.28
+Taiwan,TWN,TW,Asia,Eastern Asia,31.1,29.51,30.7,30.13,29.07,29.63,29.57,28.4,29.47,,-0.21
+Tajikistan,TJK,TJ,Asia,Central Asia,30.77,,,,,,34.0,,,,0.54
+Thailand,THA,TH,Asia,South-eastern Asia,39.05,39.4,37.53,39.26,37.28,37.03,34.84,36.89,35.32,,-0.5
+Togo,TGO,TG,Africa,Western Africa,,,46.02,,,,43.06,,,,-0.74
+Tonga,TON,TO,Oceania,Polynesia,37.5,,,,,,37.59,,,,0.02
+Tunisia,TUN,TN,Africa,Northern Africa,,,37.16,,,,,32.82,,,-0.87
+Turkey,TUR,TR,Asia,Western Asia,41.03,41.65,40.84,40.58,40.18,40.26,41.06,41.12,41.17,40.55,-0.03
+Uganda,UGA,UG,Africa,Eastern Africa,,43.4,,,41.01,,,,42.75,,-0.06
+Ukraine,UKR,UA,Europe,Eastern Europe,25.32,24.82,24.55,24.74,24.55,24.03,25.46,25.0,,,-0.01
+United Kingdom,GBR,GB,Europe,Northern Europe,39.0,37.38,37.84,37.38,36.86,37.79,37.9,35.37,34.11,34.07,-0.47
+United States,USA,US,Americas,Northern America,41.7,41.31,42.48,42.38,42.95,42.75,42.76,41.44,45.9,47.51,0.49
+Uruguay,URY,UY,Americas,South America,45.7,43.11,41.38,39.06,39.37,39.29,39.34,38.59,38.82,39.1,-0.62
+Venezuela,VEN,VE,Americas,South America,38.1,36.2,36.8,38.4,38.8,37.8,,,,,0.23
+Vietnam,VNM,VN,Asia,South-eastern Asia,,40.16,,37.29,,36.48,,39.18,,42.4,0.32
+West Bank and Gaza,PSE,PS,Asia,Western Asia,36.08,37.25,36.41,,,,,,33.69,,-0.38
+Zambia,ZMB,ZM,Africa,Eastern Africa,,55.62,,,,,57.14,,,,0.3
